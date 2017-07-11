@@ -63,4 +63,41 @@ DevFest 2017, French Tour CES 2017.
 
 
 Qui est Aaron Swartz ?
-Aaron Swartz est né le 08/11/1986 à Chicago, mort le 11/01/2013 à New York. 
+Aaron Swartz est né le 08/11/1986 à Chicago, mort le 11/01/2013 à New York. C'était un fervent partisan de la liberté numérique et il était grand défenseur de la culture libre permettant l'accès à la connaissance. Il considérait ce moyen comme étant un moyen d'émencipation et de justice.
+Wikipedia
+
+
+Qu’est-ce que le projet GNU ?
+C'est le projet d'un système d'exploitation libre lancé en 1983 par Richard Stallman. GNU signifie "GNU's Not UNIX" et reprend les concepts et fonctionnement de UNIX.
+Wikipedia
+
+
+Quelles sont les différences entre le Http et le Https ?
+Le protocole HTTPS est composé de 2 protocoles : le HTTP et le SSL (qui donne son S à HTTPS pour "Secure").
+culture-informatique.net
+
+
+Qui est Richard Stallman ?
+Né le 16/03/1953 à Manhattan, aussi connu sous le nom de "rms". C'est un programmeur et militant du logiciel libre; Initiateur du projet GNU. Il a aussi développé de nombreux logiciels tels que GNU Emacs, GCC (compilateur de C), gdb (débogueur GNU)...
+wikipedia
+
+
+Comment fonctionnent les bang de Duck Duck Go ?
+Les bangs sont des requêtes redirigeant vers d'autres moteurs de recherche en tapant la commande associée nommée "!bang". Ex : !w pour wikipedia, !g pour google, ! pour rediriger vers le premier résultat de la recherche...
+Wikipedia
+
+
+Qui est Marissa Mayer ?
+Née le 30/05/1975 à Wausau. C'est une informaticienne chef d'entreprise. Elle a occupé de 2012 à 2017 le poste de PDG chez Yahoo! après aoivr passé 13 ans chez Google comme vice-présidente responsable des services de cartographie et de géolocalisation.
+Wikipedia
+
+
+Qu’est-ce qu’une attaque “brute force” ?
+C'est une méthode pour trouver un mot de passe en essayant une à une toutes les combinaisons possibles.
+Connaissance perso
+
+
+Qui est Linus Torvalds ?
+Né le 28/12/1969 à Helsinki. C'est un informaticien connu pour avoir créé en 1991 le noyau Linux dont il continue à diriger le développement.
+	Quels sont ses plus grands développements ?
+	
